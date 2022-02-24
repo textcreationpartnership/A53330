@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the funeral of George Payne, jun Son of George Payne, an apothecary. March 6. 1699/700. At Midhurst in Sussex. And publish'd at the request of his friends. By Richard Oliver, curate of Midhurst.</title>
+            <author>Oliver, Richard, b. 1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53330</idno>
+            <idno type="STC">Wing O280</idno>
+            <idno type="STC">ESTC R219355</idno>
+            <idno type="EEBO-CITATION">99830833</idno>
+            <idno type="PROQUEST">99830833</idno>
+            <idno type="VID">35287</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35287)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2093:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the funeral of George Payne, jun Son of George Payne, an apothecary. March 6. 1699/700. At Midhurst in Sussex. And publish'd at the request of his friends. By Richard Oliver, curate of Midhurst.</title>
+                  <author>Oliver, Richard, b. 1651.</author>
+               </titleStmt>
+               <extent>[2], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Arthur Bettesworth, at the Red Lion on London Bridge: and sold by John Colebrook in Midhurst, and William Webb in Chichester, booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons --  17th century.</term>
+               <term>Sermons, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35287:1"/>
+            <pb facs="tcp:35287:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd at the FUNERAL OF <hi>GEORGE PAYNE,</hi> Jun.</p>
+            <p>Son of <hi>George Payne,</hi> an Apothecary.</p>
+            <p>
+               <hi>March</hi> 6. 1699/700.</p>
+            <p>At <hi>Midhurſt</hi> in <hi>S<g ref="char:V">Ʋ</g>SSEX.</hi>
+            </p>
+            <p>And Publiſh'd at the Requeſt of his Friends.</p>
+            <p>By <hi>Richard Oliver,</hi> Curate of <hi>Midhurſt.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Arthur Betteſworth,</hi> at the
+<hi>Red Lion</hi> on <hi>London Bridge:</hi> And Sold by <hi>John Colebrook</hi> in <hi>Midhurſt,</hi> and <hi>William Webb</hi> in
+<hi>Chicheſter,</hi> Bookſellers, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:35287:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:35287:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Cor. 7. and part of</hi> Ver. <hi>30.</hi>
+                  </bibl>
+                  <p>And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not.</p>
+               </q>
+            </epigraph>
+            <p>TO make the Senſe entire, we muſt take in part of the 29th Verſe. <hi>This I ſay, Bre<g ref="char:EOLhyphen"/>thren, The time is ſhort: It remaineth, that they that weep be as though they wept not,</hi> &amp;c.</p>
+            <p>Some in the Primitive Times, and others at this Day, from this and other Expreſſions of the like Nature, have concluded, That the coming of Chriſt to Judgment upon the World is to be in a ſhort time. But nothing of this Nature can be in<g ref="char:EOLhyphen"/>ferred from this, or the like Paſſages; for in all probability they relate only to the Diſſolution of the Jewiſh State, which happened not many Years after this, and the reſt of the Epiſtles, were Writ, to the Times of Perſection, and to the Deſtru<g ref="char:EOLhyphen"/>ction of Heatheniſm. But notwithſtanding this, the Aſſertion is true in many other reſpects, and may afford us many uſeful and practical Obſervati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>
+               <hi>The Time is ſhort; it remaineth therefore, that they that weep be as though they wept not; and they <pb n="2" facs="tcp:35287:3"/>that rejoyce, as though they rejoyced not;</hi> —<hi>and they that uſe this World, as not abuſing it: for the faſhion of this World paſſeth away.</hi>
+            </p>
+            <p>Where we have, (1.) An Aſſertion. <hi>The Time in ſhort.</hi>
+            </p>
+            <p n="2">(2.) The Inference from it, That we ſhould mo<g ref="char:EOLhyphen"/>derate our Affections and Paſſions, ſo as not to be overwhelmed with Grief under Afflictions, nor too much tranſported with Joy in Proſperity. I begin with the Firſt of theſe, the Aſſertion, <hi>The Time is ſhort.</hi>
+            </p>
+            <list>
+               <item>I. The Time of Joy and Proſperity.</item>
+               <item>II. The Time of Trouble and Affliction.</item>
+               <item>III. The Time of our Abode and Continuance in this World. And,</item>
+               <item>IV. The Time of our Seperation from our Friends, occaſioned by Death. And ſhall ſhew what Practical Inferences may be drawn from each of theſe.</item>
+            </list>
+            <p n="1">1. The Time of Tranquility, Joy and Proſpe<g ref="char:EOLhyphen"/>rity is ſhort. <hi>Job</hi> tells us, <hi>That Joy is but for a Moment,</hi> Job
+20.5. And <hi>Solomon, That in the midſt of Laughter the Heart is ſorrowful, and the end of that Mirth is Heavineſs,</hi> Prov. 14.13.
+<hi>Ex<g ref="char:EOLhyphen"/>trema gaudii luctus occupat,</hi> Grief follows cloſe after Joy, and dogs it at the Heels. Worldly Goods and Proſperity, like all other things be<g ref="char:EOLhyphen"/>low, are in a continual Flux and Reflux, like the unſtable Ocean; ſo that no Man can have any long, or at leaſt any ſecure Poſſeſſion of any <pb n="3" facs="tcp:35287:3"/>thing that he enjoys; neither the Rich Man of his Riches, nor the Potentate of his Power, nor the proſperous Man of his Succeſſes, nor the Epicure of his Delicious Fare and Pleaſures: All theſe things have their Period and Change; they va<g ref="char:EOLhyphen"/>niſh away from the deluded Owners, and leave them only poſſeſs'd of mournful Complaints of their Inſtability and Vanity. We have here no <hi>Abiding City,</hi> no ſecure Poſſeſſions; they are of an uncertain and changeable Nature, and often fly from us when we leaſt expect it. Our Joy is ſoon o<g ref="char:EOLhyphen"/>vertaken with Grief, Proſperity purſued with Ad<g ref="char:EOLhyphen"/>verſity, Mirth converted into Mourning, and Ho<g ref="char:EOLhyphen"/>nour blaſted with the Breath that raiſed it. Rich<g ref="char:EOLhyphen"/>es, when we think we have them in ſafe keep<g ref="char:EOLhyphen"/>ing, <hi>make themſelves Wings and fly away,</hi> Prov. 23.5. And the Apoſtle calls them <hi>uncertain Riches,</hi> 1 Tim. 6.17. The Health of the Body, like other curious Engines, is ſoon diſordered, and the Poſſeſſion of Relations, Parents or Children, Husband or Wife, is as uncertain as any of the reſt. Worldly Men indeed think they have built themſelves and their Enjoyments upon a Rock, when it proves only a Bog or Foundation of Sand, which adverſe Winds and Flouds of Affli<g ref="char:EOLhyphen"/>ction ſoon beat down or waſh away.</p>
+            <p>Who that had ſeen <hi>Xerxes</hi> at the Head of Seven<g ref="char:EOLhyphen"/>teen Hundred Thouſand Men, in the Morning; or Proud <hi>Bajazet</hi> in the midſt of all the ſtrength of the <hi>Turkiſh</hi> Empire, could have thought, that the one before Night ſhould have fled over the
+<hi>Helleſpont</hi> in a Cockboat? Or that the other ſhould be coopt up in a Cage, and be made a Foot-ſtool <pb n="4" facs="tcp:35287:4"/>to his Conquerour? That
+<hi>Pompey,</hi> who for his Power and Grandure was called <hi>The Great,</hi> upon a Revolution of ſickle Fortune, ſhould flie to <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> and have that Head, which was wont to be adored cut off by the Hand of a vile Slave? Or that his Conquerour in the hight of his Power and Greatneſs ſhould ingloriouſly fall a Victim at the foot of his Statue? Or that
+<hi>Darius,</hi> Lord of ſo many Provinces and large Territories, ſhould have all forced from him in a ſhort time by <hi>Philip</hi>'s Boy, as he called <hi>Alexander</hi> in deriſion, and be obliged to him for the skirt of his Garment to cover him when he lay Derſerted, and almoſt Expiring upon the Sand? The Uſes we are to make of this, are theſe:</p>
+            <p n="1">(1.) If the good things of this World are thus Short-liv'd and Tranſitory, we ought to mode<g ref="char:EOLhyphen"/>rate our Affections to them. The value of good Things is much intranced by the certainty and duration of them, which not being to be had in the things of this World, it ought to abate and leſſen our Eſteem and Affection for them. The Apoſtle tells us, <hi>The faſhion of this World paſ<g ref="char:EOLhyphen"/>ſeth away,</hi> 1 Cor. 7.31. nothing is fixt or cer<g ref="char:EOLhyphen"/>tain in it, every thing is in Motion, or may ſpeedily be ſo: All things we poſſeſs are ſub<g ref="char:EOLhyphen"/>ject to more Accidents than the wiſeſt Man can foreſee or prevent; or if they were more durable than they are, yet our Lives are ſhort and un<g ref="char:EOLhyphen"/>certain: All the advantages this World can af<g ref="char:EOLhyphen"/>ford are built at the beſt but upon a Foundation of Sand, lean upon an Arm of Fleſh, than which nothing is more frail and uncertain, which re<g ref="char:EOLhyphen"/>quires <pb n="5" facs="tcp:35287:4"/>an indifferency of Affection towards them, <hi>a uſing this World, as though we uſed it not; a rejoycing, as though we rejoyced not.</hi>
+            </p>
+            <p n="2">(2.) The Conſideration of the ſhortneſs and uncertainty of Temporal Felicity and Proſperity ſhould ſuppreſs Pride.
+<hi>Charge thoſe who are rich in this World that they be not high-minded,</hi> ſaith St. <hi>Paul,</hi> 1 <hi>Tim.</hi> 6.17. and this Charge is but too often neceſſary. There are thoſe, ſaith the Pſal<g ref="char:EOLhyphen"/>miſt, <hi>who boaſt themſelves in the multitude of their riches. Pſ.</hi> 49.5. This <hi>Plutarch</hi> has obſerved, its the Pride and Folly of ſome Men, that if they be raiſed above the common ſort by the great<g ref="char:EOLhyphen"/>neſs of their Riches, they preſently ſwell with Conceit, and inſult over their Inferiours, never conſidering how mutable their Condition is, and how eaſie a Revolution it is for things that are uppermoſt to be thrown down from their Height, and Humble things to be Exalted;<note place="margin">Plut. Mor. Vol. <hi>1.</hi>
+               </note> which Changes are performed quickly, and in the ſwifteſt Mo<g ref="char:EOLhyphen"/>ments of Time. The mutability of earthly Rich<g ref="char:EOLhyphen"/>es made even an Heathen ſenſible of the Folly of Pride, upon the account of Worldly Proſperi<g ref="char:EOLhyphen"/>ty; and a Chriſtian will have more Reaſon to Condemn it, who knows, that all the Advantages Riches, Greatneſs, and Power afford, end with this Life; but the Diſadvantages, the Abuſes of them, will bear a Man Company into another World; and both the Uſe and Abuſes of them before the Impartial Judgment Seat of Chriſt muſt be brought to a ſtrict account.</p>
+            <pb n="6" facs="tcp:35287:5"/>
+            <p n="3">(3.) If the Time of Worldly Proſperity be ſhort, we muſt not confide, rely upon, or place our Happineſs in it. The ſame Apoſtle who teach<g ref="char:EOLhyphen"/>es us not to be High-minded, teaches alſo not to Truſt in <hi>
+                  <g ref="char:V">Ʋ</g>ncertain Riches,</hi> 1 Tim. 6.17. God can blaſt and take them away in a Moment, and deſtroy both our Subſtance and Confidence toge<g ref="char:EOLhyphen"/>ther: At longeſt they will laſt but the ſhort Term of our Lives; at the end of which, if we have took up our Reſt, fixt our Hopes, and bottomed our Happineſs upon them, we have miſerably de<g ref="char:EOLhyphen"/>ceived our ſelves, and are undone for ever. For Death does not put an end to our Beings, though our Bodies fall into the Grave, and are not ca<g ref="char:EOLhyphen"/>pable of Delight, or Pain, during the time of Separation; yet the Soul ſubſiſts for ever; and if it has not made Proviſion for another State, if its Happineſs was centered only in Wealth or Ho<g ref="char:EOLhyphen"/>nours, in Worldly and Bodily Delights and Plea<g ref="char:EOLhyphen"/>ſures, it is loſt and undone to all Eternity. This was the unhappy Condition of the Rich Glutton in the Goſpel, who having placed his Happineſs in this World, in coſtly Apparel, Purple and fine Linnen, and in faring ſumptuouſly every day, as ſoon as the Scene changed by Death, was wrapped in Flames, and wanted a drop of Water to cool his Tongue, <hi>Luke</hi> 16.19, 24.</p>
+            <p n="4">(4.) This Conſideration leads to another, <hi>viz.</hi> The things of this Life being ſhort and uncer<g ref="char:EOLhyphen"/>tain, we ought chiefly to value, regard, and make Proviſion of thoſe things which will endure and abide with us for ever. If we have here no <hi>a<g ref="char:EOLhyphen"/>biding City,</hi> this ſhould teach us, with the good <pb n="7" facs="tcp:35287:5"/>Patriarchs, to ſeek for a
+<hi>better Country,</hi> to look for a City which hath <hi>Foundations, whoſe builder and maker is God,</hi> Heb. 11.10, 16. to <hi>lay up trea<g ref="char:EOLhyphen"/>ſure in Heaven,</hi> and to get a Title to thoſe Spiri<g ref="char:EOLhyphen"/>tual Joys which are at
+<hi>Gods right-hand for ever<g ref="char:EOLhyphen"/>more. The World paſſeth away,</hi> (ſaith St. <hi>John</hi>) <hi>and the Luſt thereof, but he that doth the will of God, abideth for ever,</hi> 1 John 2.17. The World, and all that is deſirable therein, is Tranſient, but O<g ref="char:EOLhyphen"/>bedience to God's Commandments is of everlaſt<g ref="char:EOLhyphen"/>ing Conſequence, and will intitle us to a Happy Eternity and Eternal Delights in it. To this pur<g ref="char:EOLhyphen"/>poſe is the Exhortation of St. <hi>Paul, Charge them that are Rich in this World, that they be not high-minded, nor truſt in uncertain Riches, but in the living God, that they do good, that they be rich in good works, ready to diſtribute, willing to communi<g ref="char:EOLhyphen"/>cate: Laying up in ſtore for themſelves a good foun<g ref="char:EOLhyphen"/>dation againſt the time to come, that they may lay hold on eternal life,</hi> 1 Tim. 6.17, 18, 19. And that of our Saviour, <hi>Mat.</hi> 6.19, 20. <hi>Lay not up for your ſelves treaſures upon earth, where moth and ruſt doth corrupt, and where thieves break through and ſteal, but lay up for your ſelves treaſures in Hea<g ref="char:EOLhyphen"/>ven, where neither moth nor ruſt doth corrupt, and where thieves do not break through nor ſteal.</hi>
+            </p>
+            <p n="2">(2.) The time of Adverſity and Trouble is ſhort. As we all partake of <hi>Adams</hi> Fall, ſo we muſt all, more or leſs, ſhare with him in his Pu<g ref="char:EOLhyphen"/>niſhment and Miſery. The Holy Patriarchs and Prophets had their evil, as well as good Days; and our bleſſed Saviour himſelf, the moſt Innocent and Perfect of our kind, the beloved <pb n="8" facs="tcp:35287:6"/>Son of God, the peculiar Darling and Favourite of Heaven was a <hi>Man of Sorrow,</hi> and <hi>acquainted with Grief,</hi> Iſ. 53.3. He left his Croſs as a Le<g ref="char:EOLhyphen"/>gacy and Badge to his Diſciples, and ſome part of his Bitter Cup, who told thoſe who were to come after them, that they muſt alſo through much Tribulation enter into the Kingdom of God, <hi>Acts</hi>
+14.22. <hi>Yea, and all that will live godly in Chriſt Jeſus ſhall ſuffer perſecution,</hi> 2 Tim. 3.12.</p>
+            <p>But though Sorrow and Affliction may be the univerſal Portion of Mankind, though the Affli<g ref="char:EOLhyphen"/>ctions of the Beſt Men be many and ſharp, yet they are ſhort too. The Hand of God, which is afflict<g ref="char:EOLhyphen"/>ing, is alſo healing; and he who forgets not to chaſtiſe, remembers to deliver. Sorrow may en<g ref="char:EOLhyphen"/>dure for a Night, but that we may not faint or deſpend, Joy cometh in the Morning, <hi>Pſ.</hi> 30.5. Our Saviour, who tells his Diſciples, that they ſhould be ſorrowful, aſſures them in the next Words, that <hi>their Sorrow ſhould be turned into Joy,</hi> John 16.20. The Storm by which the Apoſtles were indangered, as a Type of their future Trou<g ref="char:EOLhyphen"/>bles, was ſoon converted into a Calm, <hi>Mat.</hi> 8.26. And though Clouds eclipſe the Sun for a time, they blow over, and make its return more wel<g ref="char:EOLhyphen"/>come and refreſhing. Was ever any Man plun<g ref="char:EOLhyphen"/>ged into more or greater Afflictions all at once than
+<hi>Job?</hi> And yet we ſooner ſee an end of his Troubles, than of his Patience; and <hi>his latter end was happier than his beginning,</hi> Job
+42.12. The Afflictions of <hi>Joſeph</hi> were ſurpriſing, and his De<g ref="char:EOLhyphen"/>liverance as remarkable; he was delivered from a Dungeon almoſt to a Throne, and from a Bond-Slave <pb n="9" facs="tcp:35287:6"/>to be the Second Perſon in a great and flou<g ref="char:EOLhyphen"/>riſhing Kingdom. <hi>Daniel</hi> of a Captive became Pre<g ref="char:EOLhyphen"/>ſident of a mighty Empire; and <hi>David,</hi> whoſe Troubles and Adverſities were ſometimes great, was refreſhed and comforted, and
+<hi>brought from the deep of the Earth again,</hi> Pſ. 71.18. The Captivity of the <hi>Jews</hi> ended in a happy return, and the Chri<g ref="char:EOLhyphen"/>ſtain Churches Perſecutions under <hi>Diocleſian</hi> ter<g ref="char:EOLhyphen"/>minated in a
+<hi>Conſtantine.</hi> Our Saviour tells us, <hi>Thoſe who mourn now ſhall be comforted,</hi> Mat. 5.4. and St. <hi>Paul</hi> reckons the <hi>heavieſt afflictions light,</hi> becauſe they are <hi>but for a moment,</hi> 2 Cor.
+4.17. The longeſt Troubles of a Good Man muſt end in Death, if not ſooner; they can continue on<g ref="char:EOLhyphen"/>ly the ſhort ſpace of this Life; and what is that to a Happy Eternity?</p>
+            <p>To conclude this Head: We may ſay of our Afflictions as
+<hi>Athanaſius</hi> did of his, <hi>Nubecula eſt &amp; cito pertranſibit,</hi> It is but a little Cloud, and will ſoon blow over. Mourning has its Change into Joy, as well as Joy into Mourning; and it may be ſome ſatisfaction for the uncertainty of Temporal Goods, Proſperity and Felicity, that our Griefs and Afflictions are as ſhort and changeable as they. However we may well account all thoſe Sufferings ſhort, which end happily, which hum<g ref="char:EOLhyphen"/>ble us for our Sins, amend us in our Lives, and ſit us for a bleſſed Immortality.</p>
+            <p>The Uſe of this is, <hi>that thoſe who weep be as thoſe that wept not:</hi> That our Grief under Afflictions or Loſſes be moderated, as well as our Joy in Pro<g ref="char:EOLhyphen"/>ſperity; and that becauſe the <hi>Time is ſhort.</hi> What<g ref="char:EOLhyphen"/>ever <pb n="10" facs="tcp:35287:7"/>of Afflictions befall us, they are but for a ſhort time; they may alſo promote our Spiritual Wel<g ref="char:EOLhyphen"/>fare, if rightly improved. And theſe two Con<g ref="char:EOLhyphen"/>ſiderations, whatever our Grief be, will afford ſome Ingredients of Joy and Comfort in it. <hi>My Brethren, count it all joy when ye fall into divers temptations, knowing this, that the trying of your faith worketh patience,</hi> James 1.2, 3. And why ſhould we be concerned for <hi>Light Afflictions for a moment, which will work for us a far more exceeding and eternal weight of Glory?</hi> 2 Cor. 4.17.</p>
+            <p n="3">(3.) The time of our Life and Continuance in this World is ſhort. <hi>Man that is born of a woman is but of few days,</hi> Job. 14.1. If he lives to the utmoſt extent of Nature, his Time is but ſhort in reſpect to the firſt Ages of the World, much more in reſpect of God. <hi>Mine age is no<g ref="char:EOLhyphen"/>thing before thee,</hi> ſays <hi>David,</hi> Pſ. 39.5. What is Sixty or Eighty Years to Eternity? And of this ſhort time how much is conſumed and ſpent in Childhood, in Vanity, in Sleep Sickneſs and Bo<g ref="char:EOLhyphen"/>dily Decays? We are deſtroyed <hi>from morning until evening,</hi> Job. 4.20. From the Morning of our of Birth, or coming into the World till the Evening of our Death and going out of it. We are decli<g ref="char:EOLhyphen"/>ning and waſting ſoon after we arrive at our full Strength, and ſhall be ſo till we come to the Duſt of Death. And how often is this ſhort Life ſtill made ſhorter by Accidents? Some ſtumble at the Thre<g ref="char:EOLhyphen"/>ſhold, dropping from the Womb into the Grave: Some continue a little longer, but go out of the World before they knew why they come into it: And how many are taken off in the Prime, the <pb n="11" facs="tcp:35287:7"/>Bloom and Height of their Strength? The Conſide<g ref="char:EOLhyphen"/>ration of which will afford us theſe Practical Uſes.</p>
+            <p n="1">1. The ſhortneſs of Life conſidered with the E<g ref="char:EOLhyphen"/>vils, Afflictions, Miſeries, Snares and Temptations of it, ſhould teach us to be contented and thankful that it is no longer.</p>
+            <p>When <hi>Xerxes</hi> wept, that the vaſt Army which he was carrying againſt <hi>Greece</hi> ſhould all be dead in the ſpace of an Hundred Years: <hi>Artabanus</hi> told him, That they would meet with ſo many and great Evils, that every one of them would wiſh himſelf dead long before. If the ſhortneſs of our Lives afflicts us, in that it puts a ſpeedy Period to our Joys and Poſ<g ref="char:EOLhyphen"/>ſeſſions, it makes us amends for this by putting an end to our Miſeries and Troubles too. If our Days be
+<hi>evil,</hi> it is no ſmall Comfort to think that they are alſo
+<hi>few.</hi> The World is a Store-houſe of Evils the Re<g ref="char:EOLhyphen"/>gions of Storms and Tumult, a Vail of Tears, a large Hoſpital in which we may ſee the melancholy Ef<g ref="char:EOLhyphen"/>fects of Sin and Mortality, Man a Map and Com<g ref="char:EOLhyphen"/>plication of Miſeries; the Road he is to take lies through heavy and miry Ways, variety of Snares, many Tribulations, his Life is Labour and Sorrow, and for this Reaſon we have no great Cauſe to com<g ref="char:EOLhyphen"/>plain that it ſo ſoon paſſeth away, and we are gone, <hi>Pſal.</hi> 90.10.</p>
+            <p>It is the Complaint of many, That the Life of Man is the Entrance and End of a Tragedy, a Web of unhappy Adventures, a Chain of Miſeries; that Man's Life and Troubles are Twin-Siſters, and almoſt individual Companions; that Life and Miſery are <pb n="12" facs="tcp:35287:8"/>two different Names for the ſame thing; that no Man would accept of Life, if he knew what it is; that it is well he knows not whether he is coming, leſt he ſhould draw back and ſtart at the entrance; that to live here, is to be harraſs'd with variety of Evils under different Names, to meet with hard Uſage, diſtemper'd Humours, bodily Sickneſs, ſhame<g ref="char:EOLhyphen"/>ful Reproaches, vexatious Diſappointments, beſides Dangers, Temptations, Diſquietude, and Anguiſh of Mind: This is the common Cry from weeping Infancy to querulous Old Age; to this doleful Dit<g ref="char:EOLhyphen"/>ty moſt Tongues and Voices are tuned, of Poets, Philoſophers, Hiſtorians, Laity, Divines, Prophets, Kings, and who not?</p>
+            <p>What is it then we complain of in ſhort Life? That we have not had time to go through and ex<g ref="char:EOLhyphen"/>perience the ſeveral ſorts of Evils that are in the World? Or that we have not the Opportunity to repeat and go over them again? That we are but a ſhort time upon the Rack? That our Day-labour is ſoon done? That Death delivers us from our Mi<g ref="char:EOLhyphen"/>ſeries, and ſends us to a happy Eternity too ſoon?</p>
+            <p>If our Life and Condition in this Word be ſo full of Miſery, we have reaſon to bleſs God that our time in it is ſo ſhort, and to look upon Death, if it ſucceeded a Vertuous Life, as our Friend and Deliverer, the end of our Miſeries, the Haven of Reſt, a Sanctuary and Refuge from Danger and Temptation, a ſafe Port after a Tempeſtuous Voy<g ref="char:EOLhyphen"/>age, the welcome Deliverer that inlarges us from Priſon, ends our Labours, diſcharges our Debts, <pb n="13" facs="tcp:35287:8"/>wipes all Tears from our Eyes, diſpels all Anxiety from our Hearts, and is our Paſſage to endleſs Felici<g ref="char:EOLhyphen"/>ty and everlaſting Reſt.</p>
+            <p n="2">(2.) The Shortneſs of Life conſidered with the Frailty and Uncertainty of it, ſhould teach us to be always prepared for our Departure out of it. The Emperor <hi>Maximilian</hi> was ſo ſenſible of the Shortneſs and Uncertainty of Life, that (it is ſaid) he always carried with him among his Robes whatſoever was neceſſary for his Funeral, that he might never be un<g ref="char:EOLhyphen"/>furniſhed of that which he might every Day be in want of. O that Men would be thus mindful of their Mortality, and always carry about them thoſe good Diſpoſitions and Qualities, which are not only neceſſary for a peaceable Departure out of this Life, but alſo for a happy Entrance into the next! That they would always have their Souls provided with thoſe Vertues and good Habits which will make Death welcome, as it ends a mortal troubleſom Life; and much more ſo, as it is the Door and Paſsport to a more happy and glorious one!</p>
+            <p>Our Life in this World is only in order to ano<g ref="char:EOLhyphen"/>ther; it is the time of Trial and Probation, in which we ſtand Candidates for a happy or miſerable Eternity; it is the time allowed to make our Peace, and to work out our Salvation; and for this it is long enough, though in other reſpects it may be ſhort; and yet how deligently do Men uſually employ their time, or rather how prodigally do they ſquan<g ref="char:EOLhyphen"/>der it away, in any thing but this great and impor<g ref="char:EOLhyphen"/>tant Work? Till they receive a haſty and ſpeedy Summons from Death, a ſad and unexpected Sur<g ref="char:EOLhyphen"/>prize: <pb n="14" facs="tcp:35287:9"/>O how do they then lament their Folly, that they had ſpent this ſhort time of their Lives upon their Sins and Vanities, and have now ſcarce the ſhorteſt Point of it left for the ſaving their Souls, which ſhould have been the chief Employment of the whole of it?</p>
+            <p>
+               <hi>Archimedes,</hi> a famous Mathematician of <hi>Sicily,</hi> when the <hi>Romans</hi> took <hi>Syracuſe,</hi> was killed by a pri<g ref="char:EOLhyphen"/>vate Soldier as he was poring on his Mathematicks, and drawing Schemes in the Duſt. How often do we ſee this verified and acted over again in our own Times? While Men are buſie and buſtling about ſome mighty Affair of this World<g ref="char:punc">▪</g> as they fancy it; the Rich Man in the Goſpel in pulling down and building his Barns bigger; the Merchant in compaſ<g ref="char:EOLhyphen"/>ſing Sea and Land; the Ambitious Courtier in pro<g ref="char:EOLhyphen"/>jecting for Places of Preferment; the covetous World<g ref="char:EOLhyphen"/>ling in groveling in the Duſt, and ſeeking for hid Treaſure; the plotting Politician in ſpinning of Stale-web; and others are proſecuting their Plea<g ref="char:EOLhyphen"/>ſures, their Sins, Injuſtice, and Revenge; Death ſtands at the Door, ſteps in, and breaks off the ten<g ref="char:EOLhyphen"/>der Thread of Life with their Deſigns and Projects together, their ſhort time of Life is at an end, and they muſt go as they are, unprepared, as full of Sins as Aſtoniſhmet to the Impartial Tribunal of Chriſt.</p>
+            <p>But can there be any Error ſo great or Fatal as this? To ſuffer our Bodies to fall into the Grave before we have ſecured the Welfare of our Souls: To ſpend our ſhort time only about that, which, if attained, will profit us nothing when our Time is at an end, but may make us miſerable to all Eternity?</p>
+            <pb n="15" facs="tcp:35287:9"/>
+            <p>
+               <hi>Scipio Africanus</hi> uſed to ſay, It was ſhameful and intolerable in Military Affairs to ſay, <hi>Non putaram,</hi> I did not think it would come to this; becauſe the Error or Misfortune might be irreparable and paſt mending. And can that be thought fitting or credi<g ref="char:EOLhyphen"/>ble in a Chriſtian in regard to his Soul, which would be intolerable in a Military Man in Affairs of War? New Chances of War, or After-diligence, may poſ<g ref="char:EOLhyphen"/>ſibly retrieve in the latter the Opportunities he had omitted; but if the Chriſtian has loſt his time and opportunity of Grace, there is no poſſibility of re<g ref="char:EOLhyphen"/>deeming it, his Doom is ſealed up for ever.</p>
+            <p>It was one of the Three Things which grieved <hi>Cato</hi> moſt, That he had let one Day paſs over his Head without a Will, in which he might have died Inteſtate. If the uncertainty of Life taught him to be thus ſollicitous to ſettle his Worldly Affairs, ought not the Chriſtian to think it a great Folly to let one Day paſs from him before the Welfare of his Soul is ſecured, his Peace made with Heaven, and he is ſure of a comfortable Reception, when he muſt paſs into the Regions of Eternity?</p>
+            <p>Seeing our Time is thus not only ſhort, but uncer<g ref="char:EOLhyphen"/>tain, ought we not to watch as our Saviour com<g ref="char:EOLhyphen"/>mands, <hi>not knowing at what hour our Lord will come,</hi> Mat. 24.42. Ought we not, as <hi>Pythagoras</hi> adviſes,
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to have our Tackle ready, and Baggage pack'd up to be gone, our Houſe ſet in Or<g ref="char:EOLhyphen"/>der, our Debts cancelled, Accounts ſtated, Proviſion laid in, every thing prepared, that there may be no Delay, no Demurr, no Stop or Backwardneſs when our Lord ſhall call?</p>
+            <pb n="16" facs="tcp:35287:10"/>
+            <p n="3">(3.) Our Time being ſhort in this Life, we ought to moderate our Deſires, Eſteem, and Value of the things of this World. Things take ſomething of their intrinſick Value from the long Continuance and Duration of them, upon which account thoſe which are frail and brittle, tranſitory, and but for a ſhort time, are much inferior to thoſe which are for ever: And this is the Nature of all ſublunary Goods; our Lives are ſhort, which makes them neceſſarily to be ſo, and we are not certain we ſhall enjoy them ſo long; they are ſubject to va<g ref="char:EOLhyphen"/>riety of Accidents, which the beſt Foreſight cannot prevent or ſecure them from. We have here no <hi>Abiding City;</hi> the World, and all the things there<g ref="char:EOLhyphen"/>of, as well as our Lives in it, paſs away. Why then ſhould we ſet our Hearts upon that which is not?<note place="margin">
+                  <hi>Joh.</hi> 2.17.</note>
+               <hi>Prov.</hi> 23.5. Why ſhould we truſt in uncertain Riches? Why ſhould we make long Proviſion for a ſhort Journey? Why ſhould we lay out our Pains, Time, Thoughts, and even Souls, for Ex<g ref="char:EOLhyphen"/>ceſs and Superfluities, which will be of no uſe to us beyond the ſhort Term of this Frail Life? Which will be external Objects of Vanity to a more inlightened Mind, at a Dying Hour, and may be Internal Cauſes of inward Remorſe and Vexation of Spirit?</p>
+            <p n="4">(4.) Our Lives being ſhort here, our chiefeſt Care, Concern and Proviſion ought 10 be for Eter<g ref="char:EOLhyphen"/>nity. Were our Lives longer than they are, yet they muſt ſooner or later have an end, and then an endleſs immutable State, either of Woe or Hap<g ref="char:EOLhyphen"/>pineſs commences; and how can we better employ <pb n="17" facs="tcp:35287:10"/>our ſhort time, than in providing to be happy for ever? Earthly things concern only the Body, du<g ref="char:EOLhyphen"/>ring its abode in this Life; but our Souls are to out-live the Body, and even the Body refined from its Droſs and Mortality, will at length be raiſed to live and converſe with the Soul in an Immutable State: Ought we not then to make it our chief Buſineſs and Care to lay up Treaſure in Heaven, and provide thoſe things which will be as laſting as our Beings?</p>
+            <p>Riches and Honour, Houſes and Lands, Worldly Pleaſures and Enjoyments, Dignities and High Ti<g ref="char:EOLhyphen"/>tles, leave us with our Breath: But Righteouſneſs and Mercy, Holineſs and Purity, Obedience to the Will of God, Alms and Charity, a Holy Life and a Good Conſcience will attend and inrich us on the other ſide of the Grave; Death can not deſtroy them, nor the Canker of Time conſume them. They are the only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or Foundation, upon which we may ſafely build for future Ages a Fund which will never fail us, a Stock to ſet up with and live happily upon in the Region of Spirits, when this World, and all that is in it, ſhall be burnt up and reduced to aſhes.</p>
+            <p>
+               <hi>Laſtly,</hi> The time of Seperation of one Relation from another by Death is ſhort. And this ſhould moderate our Grief for the Loſs of them.</p>
+            <p>The Heathens might be allowed to excede in their Grief at the death of their Friends, becauſe they were without hope of ſeeing them again. But Chriſtianity aſſures us, that our Friends are only
+<pb n="18" facs="tcp:35287:11"/>removed to a happier Place, where, in a ſhort time, we ſhall be with them. Some Tears are due to De<g ref="char:EOLhyphen"/>cency, to Cuſtom, to Nature, to the Loſs and Me<g ref="char:EOLhyphen"/>mory of a Friend: Loud and clamorous Out<g ref="char:EOLhyphen"/>cries are wild and barbarous; exceſſive and im<g ref="char:EOLhyphen"/>moderate Grief is inconſiſtent with our Hope and Chriſtianity. It is fitting that the Body, when it is ſown in Corruption, ſhould be watered by thoſe that plant it in the Earth; but a Deluge may drown the Living, without profiting the Dead.</p>
+            <p>Can we immoderately lament the Departure of him, who is not only delivered from the Evils, the Cares and Pains, the Miſeries, Sickneſs, Croſſes, Dan<g ref="char:EOLhyphen"/>gers, Sins and Temptations of this mortal Life, but is alſo gone to the Happy and Glorious Company of Saints and Martyrs, Angels and Archangels, to the Paradiſe of God, the Preſence of his Bleſſed Re<g ref="char:EOLhyphen"/>deemer, the Beatifick Viſion, where there is nothing but Joy and Triumphs, Hallelujahs and Praiſes; where the Rivers of Spiritual Pleaſures overflow, and the Bleſſed Inhabitants enjoy an ever-flouriſhing Youth and perpetual Spring? Can we bewail without Meaſure the departure of one who is not loſt, but gone before us to take Poſſeſſion of a Kingdom? To which a Holy Life, in a ſhort time, will aſſuredly bring us, through the Aſſiſtance of God's Grace, where we ſhall meet and embrace again.</p>
+            <p>And that this is the Happy Caſe of the Perſon De<g ref="char:EOLhyphen"/>ceaſed, we may not only charitably, but reaſonably believe. He was Religious and Devout in his Duty to God: Dutiful and Obedient to his Parents: Faith<g ref="char:EOLhyphen"/>ful and Diligent in his Employment: Civil and Re<g ref="char:EOLhyphen"/>ſpectful <pb n="19" facs="tcp:35287:11"/>in his Behaviour: Chaſte, Sober, and Tempe<g ref="char:EOLhyphen"/>rate in his Life: Addicted to none of the Vices Young Men are too frequently guilty of; ſuch as Swearing, Lying, Lewdneſs, <hi>&amp;c.</hi> He was Patient and Submiſ<g ref="char:EOLhyphen"/>ſive to the Will of God during the whole Courſe of his Sickneſs, and at the end of it willingly reſigned up his Soul into the Hands of his Redeemer, after he had Receiv'd the Holy Sacrament, in whoſe Hands we muſt leave it in Joy and Comfort, while his Friends and Relations pay their Mournful and Laſt Duty to his Body.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35287:12"/>
+            <pb facs="tcp:35287:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
